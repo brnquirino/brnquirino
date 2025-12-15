@@ -16,7 +16,13 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="160em" src="[https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide=issues](https://github.com/brnquirino)" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide=issues" />
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
 </p>
 
 ---
