@@ -33,6 +33,7 @@ src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contri
 
 ---
 
+
 ## 🧠 Atualmente focado em
 
 - Desenvolvimento de páginas web responsivas
