@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👨‍💻 Bruno Quirino
 
-<!--
-**brnquirino/brnquirino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor **Front-End**, apaixonado por tecnologia e por transformar ideias em experiências visuais simples, eficientes e bem pensadas.  
+Tenho foco em **boas práticas**, **organização de código** e **experiência do usuário**.
 
-Here are some ideas to get you started:
+Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecossistema web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,wordpress" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide=issues" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Atualmente focado em
+
+- Desenvolvimento de páginas web responsivas
+- Criação de layouts modernos com HTML e CSS
+- Implementação de interações com JavaScript
+- Evoluindo boas práticas no front-end
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://linkedin.com/in/seu-link
+- 📧 Email: seuemail@email.com
+
+---
+
+⭐ Fique à vontade para explorar meus repositórios!
