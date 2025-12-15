@@ -16,8 +16,8 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide=issues" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brnquirino&show_icons=true&theme=tokyonight&hide=issues" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 ## 📫 Contato
 
 - 💼 LinkedIn: https://linkedin.com/in/seu-link
-- 📧 Email: seuemail@email.com
+- 📧 Email: brunoquirino.contato@gmail.com
 
 ---
 
