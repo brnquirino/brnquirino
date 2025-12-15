@@ -37,7 +37,7 @@ media="(prefers-color-scheme: dark"
 
 <picture>
 <img
-align="left"
+align="right"
 alt="GitHub Stats"
 height="200"
 style="padding-right= 10px"
