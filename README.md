@@ -38,7 +38,7 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/seu-link
+- 💼 LinkedIn: https://www.linkedin.com/in/bruno-quirino-8027b9236/
 - 📧 Email: brunoquirino.contato@gmail.com
 
 ---
