@@ -30,7 +30,8 @@ align="left"
 alt="GitHub Stats"
 height="200"
 style="padding-right= 10px"
-src="https://github-readme-stats.vercel.app/api?username=brnquirino&show_icons=true" />
+src="https://github-readme-stats.vercel.app/api?username=brnquirino&theme=dark"
+media="(prefers-color-scheme: dark" />
 </picture>
 
 <img
