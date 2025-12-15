@@ -28,8 +28,10 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 </picture>
 
 <img
-align="right"
+align="left"
+alt="GitHub Stats"
 height="200"
+style="padding-right= 10px"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&theme=dark"
 media="(prefers-color-scheme: dark"
 />
