@@ -15,24 +15,18 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 
 ## 📊 Estatísticas do GitHub
 
-<img
-align="left"
-alt="GitHub Stats"
-height="200"
-style="padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=brnquirino&hide=contribs,prs"
-/>
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide=issues" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
 
 <img
-align="left"
-alt="GitHub Stats"
-height="200"
-style="padding-right: 10px"
-src="https://github-readme-stats.vercel.app/api?username=brnquirino&hide=contribs,prs"
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
-
 ---
-
 
 ## 🧠 Atualmente focado em
 
@@ -45,8 +39,8 @@ src="https://github-readme-stats.vercel.app/api?username=brnquirino&hide=contrib
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/bruno-quirino-8027b9236/
-- 📧 Email: brunoquirino.contato@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/seu-link
+- 📧 Email: seuemail@email.com
 
 ---
 
