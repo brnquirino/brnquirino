@@ -25,10 +25,12 @@ src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contri
 
 <img
 align="left"
-height"GitHub Stats"
-style="200"
+alt="GitHub Stats"
+height="200"
+style="padding-right: 10px"
 src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs"
 />
+
 ---
 
 ## 🧠 Atualmente focado em
