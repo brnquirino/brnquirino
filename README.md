@@ -46,6 +46,12 @@ media="(prefers-color-scheme: dark"
   />
 </picture>
 
+
+
+
+
+---
+
 ## 🧠 Atualmente focado em
 
 - Desenvolvimento de páginas web responsivas
