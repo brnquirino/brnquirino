@@ -31,9 +31,11 @@ alt="GitHub Stats"
 height="200"
 style="padding-right= 10px"
 src="https://github-readme-stats.vercel.app/api?username=brnquirino&theme=dark"
-media="(prefers-color-scheme: dark" />
+media="(prefers-color-scheme: dark" 
+/>
 </picture>
 
+<picture>
 <img
 align="left"
 alt="GitHub Stats"
@@ -41,7 +43,8 @@ height="200"
 style="padding-right= 10px"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&theme=dark"
 media="(prefers-color-scheme: dark"
-/>
+  />
+</picture>
 
 ---
 
