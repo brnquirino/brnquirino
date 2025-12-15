@@ -20,6 +20,9 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&layout=compact&theme=tokyonight" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brnquirino&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🧠 Atualmente focado em
