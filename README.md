@@ -25,8 +25,8 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=brnquirino&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&layout=compact"
 </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&layout=compact"
 
 ---
 
