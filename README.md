@@ -22,7 +22,7 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=brnquirino&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=brnquirino&layout=compact&langs_count=8&card_width=320&theme=tokyonight&title=Tecnologias" />
 </a>
 
 
