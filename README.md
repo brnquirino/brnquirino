@@ -32,23 +32,3 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
   />
 
 </p>
-
----
-
-## 🧠 Atualmente focado em
-
-- Desenvolvimento de páginas web responsivas
-- Criação de layouts modernos com HTML e CSS
-- Implementação de interações com JavaScript
-- Evoluindo boas práticas no front-end
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: https://linkedin.com/in/seu-link
-- 📧 Email: seuemail@email.com
-
----
-
-⭐ Fique à vontade para explorar meus repositórios!
