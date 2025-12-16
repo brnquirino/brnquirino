@@ -15,19 +15,19 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 
 ## 📊 Estatísticas do GitHub
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=brnquirino&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=brnquirino&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=brnquirino&show_icons=true" />
-</picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&layout=compact"
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brnquirino" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brnquirino&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brnquirino&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brnquirino&repo=convoychat" />
+</a>
 ---
 
 ## 🧠 Atualmente focado em
