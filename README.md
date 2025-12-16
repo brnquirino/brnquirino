@@ -17,22 +17,13 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api
-       ?username=brnquirino
-       &theme=tokyonight
-       &title=Estatísticas do GitHub de Bruno Quirino" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs
-       ?username=brnquirino
-       &layout=compact
-       &langs_count=8
-       &card_width=320
-       &theme=tokyonight
-       &title=Tecnologias" />
+       src="https://github-readme-stats.vercel.app/api?username=brnquirino&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=brnquirino&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
 ---
 
