@@ -13,17 +13,25 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center"
-       src="https://github-readme-stats.vercel.app/api?username=brnquirino&theme=tokyonight" />
-</a>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=brnquirino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=brnquirino&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 ---
 
