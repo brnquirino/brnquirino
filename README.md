@@ -5,7 +5,6 @@ Tenho foco em **boas práticas**, **organização de código** e **experiência 
 
 Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecossistema web.
 
----
 
 ## 🛠️ Linguagens & Tecnologias
 
@@ -13,7 +12,6 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,wordpress" />
 </p>
 
----
 
 ## 📊 Estatísticas do GitHub
 
@@ -22,4 +20,3 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&langs_count=8&theme=tokyonight"/>
 </p>
 
----
