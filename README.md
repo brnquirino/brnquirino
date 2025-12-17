@@ -13,6 +13,8 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,wordpress" />
 </p>
 
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
