@@ -10,3 +10,12 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,wordpress" />
 </p>
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide=issues" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
