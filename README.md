@@ -17,6 +17,5 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&langs_count=8&theme=tokyonight"/>
 </p>
 
