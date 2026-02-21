@@ -9,5 +9,5 @@ Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecoss
 ## 🛠️ Linguagens & Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,node,git,github,figma,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,figma,wordpress" />
 </p>
