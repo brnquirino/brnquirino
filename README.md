@@ -1,10 +1,7 @@
 ## 👨‍💻 Bruno Quirino
 
-Sou desenvolvedor **Fullstack**, apaixonado por tecnologia e por transformar ideias em experiências visuais simples, eficientes e bem pensadas.  
-Tenho foco em **boas práticas**, **organização de código** e **experiência do usuário**.
-
-Atualmente estudo e desenvolvo projetos utilizando tecnologias modernas do ecossistema web.
-
+Estudante de programação e dev fullstack em formação.
+Estou sempre aprendendo, testando coisas novas e criando projetos web para praticar boas ideias, organização de código e experiência do usuário.
 
 ## 🛠️ Linguagens & Tecnologias
 
