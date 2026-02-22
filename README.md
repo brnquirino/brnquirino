@@ -8,10 +8,10 @@
 
 ## 🚀 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brnquirino&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brnquirino&show_icons=true&theme=tokyonight)
