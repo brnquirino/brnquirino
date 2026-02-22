@@ -8,5 +8,3 @@ Estou sempre aprendendo, testando coisas novas e criando projetos web para prati
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,figma,wordpress" />
 </p>
-
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brnquirino&show_icons=true&theme=tokyonight)
