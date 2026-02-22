@@ -7,4 +7,5 @@ Estou sempre aprendendo, testando coisas novas e criando projetos web para prati
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,figma,wordpress" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnquirino&layout=compact&theme=tokyonight)
 </p>
