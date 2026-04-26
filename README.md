@@ -6,7 +6,7 @@ Estou sempre aprendendo, testando coisas novas e criando projetos web para prati
 ## 🛠️ Linguagens & Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,postgresql,git,github,figma,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,postgresql,git,github,figma,wordpress" />
 </p>
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brnquirino&theme=tokyonight)
