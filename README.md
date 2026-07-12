@@ -9,7 +9,7 @@ Estou sempre aprendendo, testando coisas novas e criando projetos web para prati
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,postgresql,git,github,figma,wordpress" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=brnquirino&layout=donut&langs_count=6&theme=tokyonight" style="display: inline-block; vertical-align: middle;">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=brnquirino&layout=donut&langs_count=6&theme=tokyonight" alt="Top Langs" height="180" style="height: 180px; max-width: 100%;" />
   </a>
