@@ -15,7 +15,6 @@ Estou sempre aprendendo, testando coisas novas e criando projetos web para prati
   </a>
   
   <span style="display: inline-block; width: 30px;"></span> 
-  
   <a href="https://github-stats-extended.vercel.app/api?username=brnquirino&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight" style="display: inline-block; vertical-align: middle;">
     <img src="https://github-stats-extended.vercel.app/api?username=brnquirino&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" height="180" style="height: 180px; max-width: 100%;" />
   </a>
