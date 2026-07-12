@@ -9,5 +9,4 @@ Estou sempre aprendendo, testando coisas novas e criando projetos web para prati
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,postgresql,git,github,figma,wordpress" />
 </p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brnquirino&layout=donut&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=brnquirino&layout=donut&langs_count=6&theme=dark)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brnquirino&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brnquirino&layout=donut&langs_count=6&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=brnquirino&layout=donut&langs_count=6&theme=tokyonight)![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brnquirino&theme=tokyonight)
