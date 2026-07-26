@@ -6,7 +6,7 @@ Estou sempre aprendendo, testando coisas novas e criando projetos web para prati
 ## 🛠️ Linguagens & Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,sql,git,github,figma,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,postgre,git,github,figma,wordpress" />
 </p>
 
 <p align="left">
