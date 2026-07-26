@@ -6,7 +6,11 @@ Estou sempre aprendendo, testando coisas novas e criando projetos web para prati
 ## 🛠️ Linguagens & Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,oracle,git,github,figma,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,github,figma,wordpress" />
+
+<br><br>
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 </p>
 
 <p align="left">
